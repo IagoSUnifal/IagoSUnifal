@@ -1,7 +1,10 @@
 ## Hello World, I'm Iago Sachsida! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/assets/Earth.gif" width="30">
 
 👩‍💻  Studying computer science at the Federal University of Alfenas 🖥️
+
 ✨  Currently developing techniques and learning in C\C++.
+
+📫  Contact me: iago.braga@sou.unifal-mg.edu.br
 
 ## 📫 About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hellennas)](https://github.com/IagoSUnifal)
