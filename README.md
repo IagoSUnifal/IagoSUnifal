@@ -14,15 +14,11 @@
 [![IagoSUnifal's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoSUnifal)](https://github.com/IagoSUnifal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoSUnifal&layout=compact)](https://github.com/IagoSUnifal)
 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+
 
 - I am always open to new ideas and collaborations.
 - Thanks for visiting.
